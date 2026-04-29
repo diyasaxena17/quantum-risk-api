@@ -1,8 +1,16 @@
 # ⚛️ Quantum Risk API
 
+![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green?logo=fastapi)
+![Qiskit](https://img.shields.io/badge/Qiskit-1.1-purple?logo=ibm)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red?logo=streamlit)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A **hybrid classical-quantum financial risk analysis system** that computes
 **VaR** and **CVaR** using either Monte Carlo simulation or Qiskit-based
 quantum circuit estimation.
+
+🚀 **[Live Demo → quantum-risk-api.streamlit.app](https://quantum-risk-api.streamlit.app/)**
 
 ---
 
